@@ -28,3 +28,7 @@ You can use RDB just above setting.
 No need to install, configure.
 It is useful when you want to show sample of 
 something other than RDB.
+
+To run this sample, run main method in 
+com.oisix.javadb_sample.App
+as a command line application.
