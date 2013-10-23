@@ -1,5 +1,7 @@
 package com.oisix.javadb_sample;
 
+import java.util.Date;
+
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
@@ -12,5 +14,6 @@ public class Customer {
 	public String address;
 	public String tel;
 	public String email;
+	public Date birthday;
 
 }
